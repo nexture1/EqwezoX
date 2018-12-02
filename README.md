@@ -1,6 +1,15 @@
 ## Welcome to EqwezoX Anti-Exploit
 
-You can use the [editor on GitHub](https://github.com/nexture1/EqwezoX/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+EqwezoX features many features, it is truly proven better than competetor anti-exploits. EqwezoX includes:
+- Discord webhook messages
+- Anti walkspeed change
+- Anti no clip
+- Anti backdoor detection, shows in developer console if detected.
+- Anti internal GUI
+- Auto ban
+- Auto kick
+- Sends a webhook to your discord if suspicious things detected.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
