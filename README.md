@@ -29,5 +29,5 @@ EqwezoX has expierienced many raids, such as webhook spams. Despite the anti-exp
 ### What are you waiting for?
 
 EqwezoX is proven better than any other anti-exploits. What are you waiting for? Get EqwezoX!
-[EqwezoX](https://www.roblox.com/library/2580683674/EqwezoX-Anti-Exploit-Original)
-![GitHub Logo](/images/eq 1.png)
+[Click here!](https://www.roblox.com/library/2580683674/EqwezoX-Anti-Exploit-Original)
+
