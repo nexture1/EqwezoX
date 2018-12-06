@@ -26,6 +26,8 @@ We highly respect our creators ofthis anti-exploit, here are the creators of it.
 
 EqwezoX has expierienced many raids, such as webhook spams. Despite the anti-exploit being taken down, our highly skilled development team has brought it up within minutes. 
 
+APPEALS CLOSED RIGHT NOW
+
 ### What are you waiting for?
 
 EqwezoX is proven better than any other anti-exploits. What are you waiting for? Get EqwezoX!
